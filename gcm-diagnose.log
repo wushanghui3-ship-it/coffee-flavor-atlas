@@ -1,0 +1,218 @@
+﻿Diagnose log at 2026-10-01T05:11:17Z
+
+AppPath: D:\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: D:\Git\mingw64\bin\
+Version: 2.6.0+3c28096588f549cb46f36b552390514356830abe
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 26200)
+Reading environment variables... OK
+ Variables:
+HOMEPATH=\Users\04
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMPUTERNAME=LAPTOP-KDK4SAGC
+GIT_TRACE2_PARENT_SID=95228d55-bc90-4773-8e45-5ec615514872
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+ZSH_TMUX_AUTOSTART=false
+OneDrive=C:\Users\04\OneDrive
+CODEX_THREAD_ID=01a0470d-49a5-7610-9266-b723a02db081
+EnableLog=INFO
+LOG_FORMAT=json
+GIT_CONFIG_KEY_0=safe.directory
+USERNAME=04
+GIT_CONFIG_VALUE_1=C:\Users\04\Documents\Codex\2026-08-28\https-github-com-nextlevelbuilder-ui-ux\outputs\coffee-flavor-atlas/*
+CODEX_SHELL=1
+WebStorm=C:\Program Files\JetBrains\WebStorm 2025.1.2\bin;
+DataGrip=C:\Program Files\JetBrains\DataGrip 2024.3.5\bin;
+LC_CTYPE=C.UTF-8
+USERDOMAIN=LAPTOP-KDK4SAGC
+Path=C:\Users\04\.codex\tmp\arg0\codex-arg0LVyWw5;C:\Users\04\.cache\codex-runtimes\codex-primary-runtime\dependencies\native\libheif\libheif\bin;C:\Users\04\.cache\codex-runtimes\codex-primary-runtime\dependencies\native\jxrlib\jxrlib\bin;C:\Users\04\.cache\codex-runtimes\codex-primary-runtime\dependencies\native\poppler\Library\bin;C:\Users\04\.cache\codex-runtimes\codex-primary-runtime\dependencies\bin\override;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft\jdk-17.0.9.8-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Git\cmd;D:\mat\runtime\win64;D:\mat\bin;D:\mat\polyspace\bin;E:\;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;D:\ffmpeg-master-latest-win64-gpl-shared\ffmpeg-master-latest-win64-gpl-shared\bin;E:\boss xunlian\me3\bin;C:\Users\04\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\04\AppData\Local\Programs\Python\Python39\;C:\Users\04\.cache\codex-runtimes\codex-primary-runtime\dependencies\native\powershell;C:\Users\04\AppData\Local\Microsoft\WindowsApps;D:\mingw64\bin;E:\Microsoft VS Code\bin;C:\Program Files\JetBrains\DataGrip 2024.3.5\bin;;D:\PyCharm 2025.1.1\bin;;D:\CLion 2025.1.1\bin;;C:\Users\04\AppData\Roaming\npm;C:\Program Files\JetBrains\WebStorm 2025.1.2\bin;;C:\Users\04\AppData\Local\GitHubDesktop\bin;C:\Users\04\.cache\codex-runtimes\codex-primary-runtime\dependencies\bin\fallback;C:\Users\04\.cache\codex-runtimes\codex-primary-runtime\dependencies\node\bin;C:\Users\04\.cache\codex-runtimes\codex-primary-runtime\dependencies\native\git\cmd;C:\Users\04\AppData\Local\OpenAI\Codex\bin\0ddb895c950eaeba;C:\Users\04\AppData\Local\OpenAI\Codex\bin\faa963e871dd422c
+ACSvcPort=17532
+TMP=C:\Users\04\AppData\Local\Temp
+TERM=dumb
+PATH=C:\Users\04\.cache\codex-runtimes\codex-primary-runtime\dependencies\native\powershell;C:\Users\04\.codex\tmp\arg0\codex-arg0LVyWw5;C:\Users\04\.cache\codex-runtimes\codex-primary-runtime\dependencies\native\libheif\libheif\bin;C:\Users\04\.cache\codex-runtimes\codex-primary-runtime\dependencies\native\jxrlib\jxrlib\bin;C:\Users\04\.cache\codex-runtimes\codex-primary-runtime\dependencies\native\poppler\Library\bin;C:\Users\04\.cache\codex-runtimes\codex-primary-runtime\dependencies\bin\override;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft\jdk-17.0.9.8-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Git\cmd;D:\mat\runtime\win64;D:\mat\bin;D:\mat\polyspace\bin;E:\;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;D:\ffmpeg-master-latest-win64-gpl-shared\ffmpeg-master-latest-win64-gpl-shared\bin;E:\boss xunlian\me3\bin;C:\Users\04\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\04\AppData\Local\Programs\Python\Python39\;C:\Users\04\.cache\codex-runtimes\codex-primary-runtime\dependencies\native\powershell;C:\Users\04\AppData\Local\Microsoft\WindowsApps;D:\mingw64\bin;E:\Microsoft VS Code\bin;C:\Program Files\JetBrains\DataGrip 2024.3.5\bin;;D:\PyCharm 2025.1.1\bin;;D:\CLion 2025.1.1\bin;;C:\Users\04\AppData\Roaming\npm;C:\Program Files\JetBrains\WebStorm 2025.1.2\bin;;C:\Users\04\AppData\Local\GitHubDesktop\bin;C:\Users\04\.cache\codex-runtimes\codex-primary-runtime\dependencies\bin\fallback;C:\Users\04\.cache\codex-runtimes\codex-primary-runtime\dependencies\node\bin;C:\Users\04\.cache\codex-runtimes\codex-primary-runtime\dependencies\native\git\cmd;C:\Users\04\AppData\Local\OpenAI\Codex\bin\0ddb895c950eaeba;C:\Users\04\AppData\Local\OpenAI\Codex\bin\faa963e871dd422c
+LOCALAPPDATA=C:\Users\04\AppData\Local
+PUBLIC=C:\Users\Public
+CLion=D:\CLion 2025.1.1\bin;
+PROCESSOR_IDENTIFIER=AMD64 Family 25 Model 116 Stepping 1, AuthenticAMD
+PSModulePath=C:\Users\04\Documents\PowerShell\Modules;C:\Program Files\PowerShell\Modules;c:\users\04\.cache\codex-runtimes\codex-primary-runtime\dependencies\native\powershell\Modules;C:\Users\04\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+CODEX_SESSION_ID=01a0470d-49a5-7610-9266-b723a02db081
+LESS=
+PROCESSOR_REVISION=7401
+NO_COLOR=1
+GIT_CONFIG_VALUE_0=C:\Users\04\Documents\Codex\2026-08-28\https-github-com-nextlevelbuilder-ui-ux\outputs\coffee-flavor-atlas
+GIT_CONFIG_KEY_1=safe.directory
+PROCESSOR_LEVEL=25
+NUMBER_OF_PROCESSORS=16
+CODEX_TECTONIC_PATH=C:\Program Files\WindowsApps\OpenAI.Codex_26.924.2738.0_x64__2p2nqsd0c76g0\app\resources\tectonic\tectonic.exe
+CODEX_APP_TOOLS_PIPE_PATH=\\.\pipe\codex-browser-use-e675d1f0-e64e-4b2f-89b0-bb7708c037e2
+GIT_CONFIG_COUNT=2
+ProgramFiles(x86)=C:\Program Files (x86)
+ZSH_TMUX_AUTOSTARTED=true
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+CODEX_PERMISSION_PROFILE=:workspace
+USERDOMAIN_ROAMINGPROFILE=LAPTOP-KDK4SAGC
+CODEX_VERSION=0.158.0-alpha.2.1
+PAGER=cat
+COLORTERM=
+ProgramW6432=C:\Program Files
+GIT_PAGER=cat
+ProgramFiles=C:\Program Files (x86)
+GH_PAGER=cat
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+SHELL=C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+RlsSvcPort=22112
+SystemDrive=C:
+CODEX_INTERNAL_ORIGINATOR_OVERRIDE=Codex Desktop
+CommonProgramW6432=C:\Program Files\Common Files
+DISABLE_AUTO_UPDATE=true
+LOGONSERVER=\\LAPTOP-KDK4SAGC
+USERPROFILE=C:\Users\04
+SystemRoot=C:\WINDOWS
+CODEX_CI=1
+LC_ALL=C.UTF-8
+ProgramData=C:\ProgramData
+CODEX_WINDOWS_SANDBOX_PACKAGE_FAMILY=OpenAI.Codex_2p2nqsd0c76g0
+PyCharm=D:\PyCharm 2025.1.1\bin;
+APPDATA=C:\Users\04\AppData\Roaming
+HOMEDRIVE=C:
+RUST_LOG=warn
+CODEX_MCP_NODE_PATH=C:\Users\04\AppData\Local\OpenAI\Codex\runtimes\cua_node\b63ee7ee40c23b77\bin\node.exe
+CODEX_SAGE_BACKFILL_TRACKER_TAB_REUSE=1
+LANG=C.UTF-8
+PROCESSOR_ARCHITEW6432=AMD64
+PROCESSOR_ARCHITECTURE=x86
+OS=Windows_NT
+ComSpec=C:\WINDOWS\system32\cmd.exe
+TEMP=C:\Users\04\AppData\Local\Temp
+ACSetupSvcPort=23210
+windir=C:\WINDOWS
+ALLUSERSPROFILE=C:\ProgramData
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\04\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\04\AppData\Local\Temp\5bb64048a350f6bd8c73137f'... OK
+Reading from temporary file 'C:\Users\04\AppData\Local\Temp\5bb64048a350f6bd8c73137f'... OK
+Deleting temporary file 'C:\Users\04\AppData\Local\Temp\5bb64048a350f6bd8c73137f'... OK
+Testing IFileSystem instance...
+UserHomePath: 
+UserDataDirectoryPath: .gcm
+GetCurrentDirectory(): C:\Users\04\Documents\Codex\2026-08-28\https-github-com-nextlevelbuilder-ui-ux\outputs\coffee-flavor-atlas
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: False
+Exception:
+System.Net.Http.HttpRequestException: 发送请求时出错。 ---> System.Net.WebException: 基础连接已经关闭: 接收时发生错误。 ---> System.ComponentModel.Win32Exception: 安全包中没有可用的凭证
+   在 System.Net.SSPIWrapper.AcquireCredentialsHandle(SSPIInterface SecModule, String package, CredentialUse intent, SecureCredential2 scc)
+   在 System.Net.Security.SecureChannel.AcquireCredentialsHandle(CredentialUse credUsage, SecureCredential2& secureCredential)
+   在 System.Net.Security.SecureChannel.AcquireCredentialsHandle(CredentialUse credUsage, X509Certificate2 selectedCert, Flags flags)
+   在 System.Net.Security.SecureChannel.AcquireClientCredentials(Byte[]& thumbPrint)
+   在 System.Net.Security.SecureChannel.GenerateToken(Byte[] input, Int32 offset, Int32 count, Byte[]& output)
+   在 System.Net.Security.SecureChannel.NextMessage(Byte[] incoming, Int32 offset, Int32 count)
+   在 System.Net.Security.SslState.StartSendBlob(Byte[] incoming, Int32 count, AsyncProtocolRequest asyncRequest, Boolean renegotiation)
+   在 System.Net.Security.SslState.ForceAuthentication(Boolean receiveFirst, Byte[] buffer, AsyncProtocolRequest asyncRequest, Boolean renegotiation)
+   在 System.Net.Security.SslState.ProcessAuthentication(LazyAsyncResult lazyResult)
+   在 System.Net.TlsStream.CallProcessAuthentication(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Net.TlsStream.ProcessAuthentication(LazyAsyncResult result)
+   在 System.Net.TlsStream.BeginWrite(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback asyncCallback, Object asyncState)
+   在 System.Net.TlsStream.UnsafeBeginWrite(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback asyncCallback, Object asyncState)
+   在 System.Net.PooledStream.UnsafeBeginWrite(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   在 System.Net.ConnectStream.WriteHeaders(Boolean async)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   在 System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 GitCredentialManager.Diagnostics.NetworkingDiagnostic.<RunInternalAsync>d__4.MoveNext()
+--- 引发异常的上一位置中堆栈跟踪的末尾 ---
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   在 GitCredentialManager.Diagnostics.Diagnostic.<RunAsync>d__6.MoveNext()
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com...
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.48.0.rc0.windows.1'
+Locating current repository...Git repository at 'C:/Users/04/Documents/Codex/2026-08-28/https-github-com-nextlevelbuilder-ui-ux/outputs/coffee-flavor-atlas/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:D:/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:D:/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:D:/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:D:/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:D:/Git/etc/gitconfig	filter.lfs.required=true
+file:D:/Git/etc/gitconfig	http.sslbackend=openssl
+file:D:/Git/etc/gitconfig	http.sslcainfo=D:/Git/mingw64/etc/ssl/certs/ca-bundle.crt
+file:D:/Git/etc/gitconfig	core.autocrlf=true
+file:D:/Git/etc/gitconfig	core.fscache=true
+file:D:/Git/etc/gitconfig	core.symlinks=true
+file:D:/Git/etc/gitconfig	pull.rebase=false
+file:D:/Git/etc/gitconfig	credential.helper=manager
+file:D:/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:D:/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/04/.gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Users/04/.gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Users/04/.gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Users/04/.gitconfig	filter.lfs.required=true
+file:C:/Users/04/.gitconfig	user.name=wsh04-source
+file:C:/Users/04/.gitconfig	user.email=1152566450@qq.com
+file:C:/Users/04/.gitconfig	http.proxy=http://127.0.0.1:7890
+file:C:/Users/04/.gitconfig	http.sslbackend=openssl
+file:C:/Users/04/.gitconfig	http.sslcainfo=D:/Git/mingw64/etc/ssl/certs/ca-bundle.crt
+file:C:/Users/04/.gitconfig	https.proxy=http://127.0.0.1:7890
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/wushanghui3-ship-it/coffee-flavor-atlas.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+command line:	safe.directory=C:\Users\04\Documents\Codex\2026-08-28\https-github-com-nextlevelbuilder-ui-ux\outputs\coffee-flavor-atlas
+command line:	safe.directory=C:\Users\04\Documents\Codex\2026-08-28\https-github-com-nextlevelbuilder-ui-ux\outputs\coffee-flavor-atlas/*
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: False
+Exception:
+System.Exception: Unable to persist credentials with the 'wincredman' credential store.
+See https://aka.ms/gcm/credstores for more information.
+   在 GitCredentialManager.CredentialStore.ValidateWindowsCredentialManager()
+   在 GitCredentialManager.CredentialStore.EnsureBackingStore()
+   在 GitCredentialManager.CredentialStore.Remove(String service, String account)
+   在 GitCredentialManager.Diagnostics.CredentialStoreDiagnostic.RunInternalAsync(StringBuilder log, IList`1 additionalFiles)
+   在 GitCredentialManager.Diagnostics.Diagnostic.<RunAsync>d__6.MoveNext()
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential...Deleting test credential...
