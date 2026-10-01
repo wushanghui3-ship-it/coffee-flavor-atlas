@@ -19,7 +19,8 @@ COPY server.py render.yaml ./
 COPY data ./data
 
 ENV HOST=0.0.0.0
+ENV PORT=7860
 ENV COOKIE_SECURE=true
 
-EXPOSE 10000
+EXPOSE 7860
 CMD ["python3", "server.py"]

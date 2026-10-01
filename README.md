@@ -1,3 +1,12 @@
+---
+title: Coffee Flavor Atlas
+emoji: ☕
+colorFrom: yellow
+colorTo: red
+sdk: docker
+pinned: false
+---
+
 # Coffee Flavor Atlas（Vue 新版）
 
 旧版单文件网页已归档到 `legacy/index.html`。新版使用 `frontend` 中的 Vue 源码；Python 后端只提供新版构建结果及数据库 API。原 SQLite 数据文件仍在 `data/coffee_atlas.db`，不会因切换版本被清空。
