@@ -344,12 +344,21 @@ async function api(url, options = {}) {
 async function load() {
   loading.value = true;
   try {
-    const [data, session] = await Promise.all([api('/api/bootstrap'), api('/api/session')]);
+    let data;
+    let session;
+    try {
+      [data, session] = await Promise.all([api('/api/bootstrap'), api('/api/session')]);
+    } catch {
+      const staticData = await fetch(`${import.meta.env.BASE_URL}bootstrap.json`).then(response => response.json());
+      data = staticData;
+      session = { authenticated: false, user: null };
+    }
     categories.value = data.categories || [];
     tags.value = data.tags || [];
     coffees.value = data.coffees || [];
     currentUser.value = session.authenticated ? session.user : null;
     selectedCoffeeId.value = coffees.value[0]?.id || null;
+    errorMessage.value = '';
   } catch (error) { errorMessage.value = error.message; }
   finally { loading.value = false; }
 }
